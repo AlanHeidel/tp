@@ -34,14 +34,14 @@ Regularidad:
 | CRUD simple             | 1. CRUD Plato<br>2. CRUD Mesa<br>3. CRUD Mozo                                                                                                                                                                                                                                      |
 | CRUD dependiente        | 1. CRUD Pedido {depende de} Mesa y Plato<br>2. CRUD Reserva {depende de} Mesa y Account                                                                                                                                                                                         |
 | Listado<br>+<br>detalle | 1. Platos: Listado filtrado por nombre y tipo, mostrando precio de venta/costo y margen de ganancia (CRUD Plato).<br> 2. Pedidos: Listado filtrado por nro. de mesa, mostrando estado, platos, mozo y total (Pedidos) |
-| CUU/Epic                | 1. Reservar una mesa del bar<br>2. Realizar un pedido                                                                                                                                                                                                                                |
+| CUU/Epic                | 1. Gestion de reservas<br>2. Gestion de pedidos                                                                                                                                                                                                                                |
 
 Adicionales para Aprobación:
 
 | Req      | Detalle                                                                                                                                                       |
 | :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CRUD     | 1. CRUD Plato<br>2. CRUD Mesa<br>3. CRUD Mozo<br>4. CRUD Tipo Producto <br>5. CRUD Pedido {depende de} Mesa y Plato<br>6. CRUD Reserva {depende de} Mesa y Cliente                                       |
-| CUU/Epic | 1. Reservar una mesa del bar<br>2. Realizar un pedido<br>3. Realizar el pago de uno o más pedidos<br>4. Cancelar reserva (compensa CRUD dependiente faltante) |
+| CUU/Epic | 1. Gestion de reservas<br>2. Gestion de pedidos<br>3. Realizar el pago de uno o más pedidos<br>4. Cancelar reserva (compensa CRUD dependiente faltante) |
 
 ### Alcance Adicional Voluntario
 
