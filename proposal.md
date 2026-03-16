@@ -41,11 +41,11 @@ Adicionales para Aprobación:
 | Req      | Detalle                                                                                                                                                       |
 | :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CRUD     | 1. CRUD Plato<br>2. CRUD Mesa<br>3. CRUD Mozo<br>4. CRUD Tipo Producto <br>5. CRUD Pedido {depende de} Mesa y Plato<br>6. CRUD Reserva {depende de} Mesa y Cliente                                       |
-| CUU/Epic | 1. Gestion de reservas<br>2. Gestion de pedidos<br>3. Realizar el pago de uno o más pedidos<br>4. Cancelar reserva (compensa CRUD dependiente faltante) |
+| CUU/Epic | 1. Gestion de reservas<br>2. Gestion de pedidos<br>3. Realizar el pago de uno o más pedidos |
 
 ### Alcance Adicional Voluntario
 
 | Req      | Detalle                                                                                                                                                                                                    |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listados | 1. Pedidos filtrados por Tipo Producto y Cliente, muestra el estado y el nombre de los productos y sus tipos<br>2. Reservas filtradas por fecha muestra datos de la mesa, la fecha y el nombre del cliente |
+| Listados | 1. Pedidos filtrados por Mesa o Cliente<br>2. Reservas filtradas por Mesa o Cliente<br>3. Mesas filtradas por estado<br>4. Mozos filtrados por DNI o Nombre<br>5. Platos filtradas por nombre o TipoPlato |
 | CUU/Epic | 1. Solicitar mozo                                                                                                                                                                                          |
