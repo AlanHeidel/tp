@@ -47,6 +47,6 @@ Adicionales para Aprobación:
 
 | Req      | Detalle                                                                                                                                                                                                    |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listados | 1. Reservas filtradas por Mesa o Cliente<br>2. Mesas filtradas por estado<br>3. Mozos filtrados por DNI o Nombre |
+| Listados | 1. Reservas filtradas por Mesa o Cliente<br>2. Mesas filtradas por estado<br>3. Mozos filtrados por DNI o Nombre<br> 4. Dashboard con métricas del restaurante: total de pedidos, ingresos del día, platos más vendidos, reservas del día |
 | CUU/Epic | 1. Solicitar mozo |
 | Integracion | 1. Integracion con MercadoPago para el proceso de pagos<br>2. Integracion con servicio de Maps para mostrar la ubicacion del Restaurant |
