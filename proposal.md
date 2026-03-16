@@ -47,5 +47,5 @@ Adicionales para Aprobación:
 
 | Req      | Detalle                                                                                                                                                                                                    |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listados | 1. Pedidos filtrados por Mesa o Cliente<br>2. Reservas filtradas por Mesa o Cliente<br>3. Mesas filtradas por estado<br>4. Mozos filtrados por DNI o Nombre<br>5. Platos filtradas por nombre o TipoPlato |
+| Listados | 1. Reservas filtradas por Mesa o Cliente<br>2. Mesas filtradas por estado<br>3. Mozos filtrados por DNI o Nombre |
 | CUU/Epic | 1. Solicitar mozo                                                                                                                                                                                          |
